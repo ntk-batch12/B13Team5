@@ -9,6 +9,13 @@ public class ZDemoTest {
 		  char myChar = 'X'; 
     //new code
 	        System.out.println("The value of myChar is: " + myChar);
-
+      
    }
+     //this is fun
+	//I can't believe it 
+
+	public void add(int a, int b) {
+	System.out.println(a + b);
+	
+}
 }
