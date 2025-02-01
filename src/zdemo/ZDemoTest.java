@@ -7,6 +7,21 @@ public class ZDemoTest {
 //this is fun
 	//I can't believe it 
 		// pull practice
-}
-}
+	}
+
+
+
 //Team five is the best
+	
+	
+	
+if(goal.isDifficult()) {
+System.out.println("It's okay, don't give up!");
+}
+goal. nextStep();
+
+// fixed the  issue 
+
+}
+
+}
