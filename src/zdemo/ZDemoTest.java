@@ -26,4 +26,10 @@ goal. nextStep();
 
 }
 
+if (goal.isChallenging()) {
+    System.out.println("Keep pushing, you're doing great!");
+    goal.moveForward();
+}
+
+}
 }
