@@ -30,6 +30,6 @@ if (goal.isChallenging()) {
     System.out.println("Keep pushing, you're doing great!");
     goal.moveForward();
 }
-
+//keep it simple
 }
 }
