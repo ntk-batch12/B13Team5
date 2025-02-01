@@ -9,11 +9,11 @@ public class ZDemoTest {
 		  char myChar = 'X'; 
     //new code
 	        System.out.println("The value of myChar is: " + myChar);
-      
+      //why is this not pushing
    }
      //this is fun
 	//I can't believe it 
-
+    //please keep the code correct
 	public void add(int a, int b) {
 	System.out.println(a + b);
 	
