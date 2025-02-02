@@ -27,3 +27,9 @@ public class ZDemoTest {
 =======
 >>>>>>> branch 'master' of https://github.com/ntk-batch12/B13Team5.git
 }
+
+public class ZDemoTest {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+        }
+       }
