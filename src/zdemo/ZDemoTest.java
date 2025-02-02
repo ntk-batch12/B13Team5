@@ -8,5 +8,8 @@ public class ZDemoTest {
 	//I can't believe it 
 		// pull practice
 }
-}
 //Team five is the best
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
